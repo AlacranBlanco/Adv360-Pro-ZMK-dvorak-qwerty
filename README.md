@@ -1,6 +1,6 @@
 # Personal Configuration for kinesis adv 360
 
-This config includes two layouts
+This config includes two layoutss
 - Qwerty with homerow mods
 ![qwerty layout](./assets/kinesis360-qwerty.png)
 
